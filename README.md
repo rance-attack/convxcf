@@ -1,2 +1,4 @@
-# convxcf
-Converting framework to XCFramework
+# Usage
+```
+swift convxcf.swift GoogleMobileAds.framework
+```
