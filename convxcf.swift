@@ -7,7 +7,6 @@ enum Command: String {
     case cp = "/bin/cp"
     case rm = "/bin/rm"
     case xcodebuild = "/usr/bin/xcodebuild"
-    case ls = "/bin/ls"
 }
 
 struct Program {
